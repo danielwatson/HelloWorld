@@ -1,9 +1,9 @@
-#include <iostream>
+ng#include <iostream>
 using namespace std;
 
 int main(){
 
-  cout << "hello, world.\n";
+  cout << "greetings and salutations, world.\n";
   
   return 1;
   
